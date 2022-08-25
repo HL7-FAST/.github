@@ -2,7 +2,7 @@
 
 # HL7 *FAST* 🔥
 
-Open source code and reference implementations for the HL7 *FAST* project, which aims to make healthcare interoperability work **at scale**. Three new technologies are deployed to meet this end:
+Open source code and reference implementations for the HL7 *FAST* project, which aims to make healthcare interoperability work **at scale**.
 
 | Use Case | Purpose | Implementation Guide |
 |:---:|:---:|:---:|
