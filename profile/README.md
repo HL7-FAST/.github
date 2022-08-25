@@ -1,8 +1,8 @@
 ![HL7 FHIR At Scale Taskforce!](https://github.com/HL7-FAST/.github/blob/6908834ff93bfaf0ef16acac87bd77a4eac6b2ea/profile/fast_logo_2022.png)
 
-# HL7 FAST 🔥
+# HL7 *FAST* 🔥
 
-This organization hosts open source code and reference implementations for the FAST project, which aims to make healthcare interoperability work **at scale**. Three new technologies are deployed to meet this end:
+Open source code and reference implementations for the HL7 *FAST* project, which aims to make healthcare interoperability work **at scale**. Three new technologies are deployed to meet this end:
 
 | Use Case | Purpose | Implementation Guide |
 |:---:|:---:|:---:|
