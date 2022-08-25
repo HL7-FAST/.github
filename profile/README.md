@@ -21,4 +21,4 @@ This organization hosts open source code and reference implementations for the F
  - Identity Matching Test Kit
  
 ## External Links 🔗
- - [confluence](https://confluence.hl7.org/display/FAST/FHIR+at+Scale+Taskforce+%28FAST%29+Home)
+ - [HL7 Confluence Page](https://confluence.hl7.org/display/FAST/FHIR+at+Scale+Taskforce+%28FAST%29+Home)
