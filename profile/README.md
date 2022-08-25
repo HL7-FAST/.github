@@ -6,9 +6,9 @@ This organization hosts open source code and reference implementations for the F
 
 | New Technology | Purpose | Implementation Guide |
 |:---:|:---:|:---:|
-| National Directory | for finding query endpoints with clinical information | [fhir-directory-exchange](https://build.fhir.org/ig/HL7/fhir-directory-exchange/) |
-| UDAP Security | for securely registering and authorizing valid healthcare organizations | [fhir-udap-security-ig](https://build.fhir.org/ig/HL7/fhir-udap-security-ig/) |
-| Digital Identity & Patient Matching | for confidently identifying relevant patient records | [fhir-identity-matching-ig](http://build.fhir.org/ig/HL7/fhir-identity-matching-ig/) |
+| National Directory | Find FHIR endpoints and associated capabilities and attributes, maintaining and validating its accuracy | [fhir-directory-exchange](https://build.fhir.org/ig/HL7/fhir-directory-exchange/), [fhir-directory-query](https://build.fhir.org/ig/HL7/fhir-directory-query), [fhir-directory-attestation](https://build.fhir.org/ig/HL7/fhir-directory-attestation) |
+| UDAP Security | Security for Scalable Registration, Authentication, and Authorization | [fhir-udap-security-ig](https://build.fhir.org/ig/HL7/fhir-udap-security-ig/) |
+| Digital Identity & Patient Matching | Interoperable Digital Identity and Patient Matching | [fhir-identity-matching-ig](http://build.fhir.org/ig/HL7/fhir-identity-matching-ig/) |
 
 ## Reference Implementations ⚙️
  - National Directory Server
