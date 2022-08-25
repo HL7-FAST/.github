@@ -4,11 +4,11 @@
 
 This organization hosts open source code and reference implementations for the FAST project, which aims to make healthcare interoperability work **at scale**. Three new technologies are deployed to meet this end:
 
-| New Technology | Purpose | Implementation Guide |
+| Use Case | Purpose | Implementation Guide |
 |:---:|:---:|:---:|
-| National Directory | Find FHIR endpoints and associated capabilities and attributes, maintaining and validating its accuracy | [fhir-directory-exchange](https://build.fhir.org/ig/HL7/fhir-directory-exchange/), [fhir-directory-query](https://build.fhir.org/ig/HL7/fhir-directory-query), [fhir-directory-attestation](https://build.fhir.org/ig/HL7/fhir-directory-attestation) |
-| UDAP Security | Security for Scalable Registration, Authentication, and Authorization | [fhir-udap-security-ig](https://build.fhir.org/ig/HL7/fhir-udap-security-ig/) |
-| Digital Identity & Patient Matching | Interoperable Digital Identity and Patient Matching | [fhir-identity-matching-ig](http://build.fhir.org/ig/HL7/fhir-identity-matching-ig/) |
+| National Directory | Find FHIR endpoints and associated capabilities and attributes, maintaining and validating their accuracy | [FHIR National Directory Exchange IG](https://build.fhir.org/ig/HL7/fhir-directory-exchange/)<br />[FHIR National Directory Query IG](https://build.fhir.org/ig/HL7/fhir-directory-query)<br />[FHIR National Directory Attestation and Verification IG](https://build.fhir.org/ig/HL7/fhir-directory-attestation) |
+| UDAP Security | Security for Scalable Registration, Authentication, and Authorization | [FHIR UDAP Security IG](https://build.fhir.org/ig/HL7/fhir-udap-security-ig/) |
+| Digital Identity & Patient Matching | Interoperable Digital Identity and Patient Matching | [FHIR Identity Matching IG](http://build.fhir.org/ig/HL7/fhir-identity-matching-ig/) |
 
 ## Reference Implementations ⚙️
  - National Directory Server
