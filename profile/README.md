@@ -19,6 +19,8 @@ Open source code and reference implementations for the HL7 *FAST* project, which
 
 ## Test Kits 📋
  - Identity Matching Test Kit
+ - [UDAP Security Test Cases Only](https://github.com/HL7-FAST/.github/blob/main/FAST_Secuirty_Test_Cases.xlsx?raw=true)
  
 ## External Links 🔗
  - [HL7 Confluence Page](https://confluence.hl7.org/display/FAST/FHIR+at+Scale+Taskforce+%28FAST%29+Home)
+ - [UDAP Test Tool](https://www.udap.org/UDAPTestTool/)
