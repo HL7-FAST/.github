@@ -13,9 +13,7 @@ Open source code and reference implementations for the HL7 *FAST* project, which
 ## Reference Implementations ⚙️
  - National Directory Server
  - UDAP Security & Identity Matching Server
-   + UDAP Security implementation work in progress
  - UDAP Security & Identity Matching Client
-   + UDAP Security implementation work in progress
 
 ## Test Kits 📋
  - Identity Matching Test Kit
